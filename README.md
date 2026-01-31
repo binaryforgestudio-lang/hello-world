@@ -31,7 +31,7 @@
 
 | Категория | Технологии |
 | :--- | :--- |
-| **Игровые движки** | ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat&logo=unrealengine&logoColor=white) |
+| **Игровые движки** | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white) |
 | **3D Моделинг & Анимация** | ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white) ![Maya](https://img.shields.io/badge/Autodesk%20Maya-0696D7?style=flat&logo=autodesk&logoColor=white) ![ZBrush](https://img.shields.io/badge/ZBrush-000?style=flat&logo=pixologic&logoColor=white) ![Substance](https://img.shields.io/badge/Substance-000?style=flat&logo=substancepainter&logoColor=white) |
 | **2D Арт & Анимация** | ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=flat&logo=aseprite&logoColor=white) ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white) |
 | **Программирование** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
